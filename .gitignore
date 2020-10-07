@@ -35,7 +35,7 @@ bower_components
 .lock-wscript
 
 # Compiled binary addons (https://nodejs.org/api/addons.html)
-build/Release
+build/Releas
 
 # Dependency directories
 node_modules/
@@ -91,7 +91,8 @@ dist
 # vuepress build output
 .vuepress/dist
 
-# Serverless directories
+# Serverless directories g
+
 .serverless/
 
 # FuseBox cache
