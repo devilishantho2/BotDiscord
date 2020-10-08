@@ -1,8 +1,25 @@
 {
-“name”: “Roblox Helper”,
-“version”: “1.0.0”,
-“description”: “Mon premier discord bot”,
-“main”: “index.js”,
-“author”: “Ton nom”,
-“dependencies”: {}
+
+  "name": "Example",
+
+  "description": "Example",
+
+  "version": "0.0.0",
+
+  "main": "index.js",
+
+  "scripts": {
+
+    "start": "node bot.js"
+
+  },
+
+  "dependencies": {
+
+    "discord.js": "11.1.0",
+
+    "request": "2.81.0"
+
+  }
+
 }
