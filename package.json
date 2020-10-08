@@ -9,7 +9,7 @@
   "main": "bot.js",
   
   "engines": {
-    "node": "11.x"
+    "node": "12.x"
   },
   
   "engines": {
@@ -24,7 +24,7 @@
 
   "dependencies": {
 
-    "discord.js": "11.1.0",
+    "discord.js": "12.x",
 
     "request": "2.81.0"
 
