@@ -1,0 +1,8 @@
+{
+“name”: “Roblox Helper”,
+“version”: “1.0.0”,
+“description”: “Mon premier discord bot”,
+“main”: “index.js”,
+“author”: “Ton nom”,
+“dependencies”: {}
+}
