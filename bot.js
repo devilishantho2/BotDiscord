@@ -212,4 +212,4 @@ client.on('message', (message) => {
     if (!message.author.bot) {(nbmessage = nbmessage+1);}
 })
 
-client.login(BOT_TOKEN);
+client.login();
